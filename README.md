@@ -37,7 +37,3 @@ Il permet la gestion de comptes utilisateurs avec différents niveaux de permiss
 - **Frontend :** HTML, CSS  
 - **Sécurité :** Hachage des mots de passe avec `password_hash()` et `password_verify()`  
 - **Gestion des sessions :** Limite de connexion, expiration à la fermeture du navigateur  
-
----
-
-## Structure des fichiers principaux
